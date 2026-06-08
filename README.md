@@ -1,7 +1,7 @@
 Micro fplot is for microcontrollers.
 
-It does not require gnuplot to be installed on the microcontroller.
-What it does it create .dat and .gp files, which can then be exported onto your hold machine, and ran through gnuplot.
+It does not require Gnuplot to be installed on the microcontroller.
+What it does is create .dat and .gp files, which can then be exported to your host machine and run through gnuplot.
 
 The documentation for this repo is a work in progress.
 
